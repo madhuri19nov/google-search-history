@@ -1,0 +1,30 @@
+.list-item {
+  display: flex;
+  text-align: left;
+  justify-content: space-between;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+.delete {
+  height: 22px;
+  width: 22px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.logo-url {
+  height: 20px;
+  align-self: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
